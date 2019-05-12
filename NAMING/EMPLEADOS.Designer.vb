@@ -221,7 +221,7 @@ Partial Class EMPLEADOS
         '
         Me.btnCrearGafete.FlatStyle = System.Windows.Forms.FlatStyle.Popup
         Me.btnCrearGafete.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnCrearGafete.Location = New System.Drawing.Point(485, 418)
+        Me.btnCrearGafete.Location = New System.Drawing.Point(485, 427)
         Me.btnCrearGafete.Name = "btnCrearGafete"
         Me.btnCrearGafete.Size = New System.Drawing.Size(327, 29)
         Me.btnCrearGafete.TabIndex = 34
