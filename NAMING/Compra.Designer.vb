@@ -134,7 +134,7 @@ Partial Class Compra
         Me.btnVenta.BackColor = System.Drawing.SystemColors.AppWorkspace
         Me.btnVenta.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.btnVenta.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnVenta.Location = New System.Drawing.Point(1054, 623)
+        Me.btnVenta.Location = New System.Drawing.Point(1041, 623)
         Me.btnVenta.Name = "btnVenta"
         Me.btnVenta.Size = New System.Drawing.Size(231, 52)
         Me.btnVenta.TabIndex = 28
