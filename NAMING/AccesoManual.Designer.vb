@@ -92,7 +92,7 @@ Partial Class AccesoManual
         'OK
         '
         Me.OK.Font = New System.Drawing.Font("Segoe UI", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.OK.Location = New System.Drawing.Point(254, 171)
+        Me.OK.Location = New System.Drawing.Point(258, 154)
         Me.OK.Name = "OK"
         Me.OK.Size = New System.Drawing.Size(110, 37)
         Me.OK.TabIndex = 4
@@ -102,7 +102,7 @@ Partial Class AccesoManual
         '
         Me.Cancel.DialogResult = System.Windows.Forms.DialogResult.Cancel
         Me.Cancel.Font = New System.Drawing.Font("Segoe UI", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Cancel.Location = New System.Drawing.Point(387, 171)
+        Me.Cancel.Location = New System.Drawing.Point(386, 154)
         Me.Cancel.Name = "Cancel"
         Me.Cancel.Size = New System.Drawing.Size(110, 37)
         Me.Cancel.TabIndex = 5
