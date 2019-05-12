@@ -148,7 +148,7 @@ Partial Class Compra
         Me.mskTxtTotal.Enabled = False
         Me.mskTxtTotal.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.mskTxtTotal.ForeColor = System.Drawing.SystemColors.MenuText
-        Me.mskTxtTotal.Location = New System.Drawing.Point(1054, 542)
+        Me.mskTxtTotal.Location = New System.Drawing.Point(1041, 542)
         Me.mskTxtTotal.Multiline = True
         Me.mskTxtTotal.Name = "mskTxtTotal"
         Me.mskTxtTotal.Size = New System.Drawing.Size(231, 75)
