@@ -35,7 +35,7 @@ Partial Class LoginID
         '
         Me.txtIdUsuario.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.txtIdUsuario.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtIdUsuario.Location = New System.Drawing.Point(72, 109)
+        Me.txtIdUsuario.Location = New System.Drawing.Point(72, 118)
         Me.txtIdUsuario.Multiline = True
         Me.txtIdUsuario.Name = "txtIdUsuario"
         Me.txtIdUsuario.Size = New System.Drawing.Size(339, 53)
