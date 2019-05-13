@@ -242,7 +242,7 @@ Partial Class EMPLEADOS
         '
         Me.btnAgregarFoto.FlatStyle = System.Windows.Forms.FlatStyle.Popup
         Me.btnAgregarFoto.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnAgregarFoto.Location = New System.Drawing.Point(485, 368)
+        Me.btnAgregarFoto.Location = New System.Drawing.Point(485, 377)
         Me.btnAgregarFoto.Name = "btnAgregarFoto"
         Me.btnAgregarFoto.Size = New System.Drawing.Size(327, 35)
         Me.btnAgregarFoto.TabIndex = 32
