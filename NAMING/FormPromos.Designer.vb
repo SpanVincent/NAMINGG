@@ -172,7 +172,7 @@ Partial Class FormPromos
         'lstProductos
         '
         Me.lstProductos.FormattingEnabled = True
-        Me.lstProductos.Location = New System.Drawing.Point(553, 29)
+        Me.lstProductos.Location = New System.Drawing.Point(544, 29)
         Me.lstProductos.Name = "lstProductos"
         Me.lstProductos.Size = New System.Drawing.Size(235, 225)
         Me.lstProductos.TabIndex = 13
