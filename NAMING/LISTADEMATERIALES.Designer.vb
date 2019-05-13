@@ -105,7 +105,7 @@ Partial Class LISTADEMATERIALES
         '
         'txtNumProducto
         '
-        Me.txtNumProducto.Location = New System.Drawing.Point(16, 32)
+        Me.txtNumProducto.Location = New System.Drawing.Point(12, 32)
         Me.txtNumProducto.Name = "txtNumProducto"
         Me.txtNumProducto.Size = New System.Drawing.Size(100, 20)
         Me.txtNumProducto.TabIndex = 6
