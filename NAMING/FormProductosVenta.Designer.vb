@@ -76,7 +76,7 @@ Partial Class FormProductosVenta
         'btnMateriales
         '
         Me.btnMateriales.FlatStyle = System.Windows.Forms.FlatStyle.Popup
-        Me.btnMateriales.Location = New System.Drawing.Point(678, 123)
+        Me.btnMateriales.Location = New System.Drawing.Point(672, 123)
         Me.btnMateriales.Name = "btnMateriales"
         Me.btnMateriales.Size = New System.Drawing.Size(116, 35)
         Me.btnMateriales.TabIndex = 15
